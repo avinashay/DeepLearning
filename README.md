@@ -1,2 +1,2 @@
 # DeepLearning
-Notes, Programming assignments from Coursera Deep Learning Specialization 
+Notes, Programming Assignments from Coursera Deep Learning Specialization 
